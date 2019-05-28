@@ -1,6 +1,6 @@
 #pragma once
 
-#include "slist.hpp"
+#include "slist.h"
 #include <assert.h>
 
 template <typename T>
