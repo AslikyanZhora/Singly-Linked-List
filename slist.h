@@ -29,3 +29,5 @@ private:
 	Node* m_head;
 	size_t m_size;
 };
+
+#include "slist.hpp"
